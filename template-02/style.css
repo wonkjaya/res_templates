@@ -1,0 +1,131 @@
+body {
+	font-family: arial; 
+	font-size: 12px; 
+	width: 595px;
+	height: 840px;
+	border: 1px solid #d0d0d0;
+	text-align: center;
+	margin: 0px;
+}
+img.background, .text{
+	width: 595px;
+	height: 840px;
+	position:absolute;
+	top:0px;
+	z-index: 0px;
+	left:0px;
+}
+
+.text, .name, .group-alamat, .pas-photo, p, .row, .col-md-12, .description{
+	border:1px dotted;
+	overflow:hidden;
+}
+
+.text .row .name{
+	max-width:310px;
+	height: 30px;
+	margin-top: 50px;
+    font-size: 20px;
+    color: #fff !important;
+}
+.text .row .group-alamat{
+	width:297px;
+	height: auto;
+	margin-top: 50px;
+    font-size: 12px;
+    float:right;	
+}
+.text .row .group-alamat p{
+	margin:1px;
+}
+
+.text .row .pas-photo{
+	margin:0px auto;
+}
+
+.text .row .description{
+	max-width : 90%;
+	margin:20px auto;
+	color:#8e8484 !important;
+}
+
+.text .row.label-middle ul li{
+	list-style: none;
+}
+
+ul.expertise{
+	color:#8e8484 !important;
+	font-size: 14px;
+}
+
+ul.expertise li{
+	margin:5px;
+}
+
+ul.skil{
+	font-size: 14px;
+	color:#000 !important;
+}
+ul.skil li{
+	margin-bottom:25px;
+}
+
+ul.expertise{
+	color:#8e8484 !important;
+	font-size: 14px;
+}
+
+ul.education{
+	color:#8e8484 !important;
+	font-size: 14px;
+}
+
+ul.education li{
+	margin-bottom: 10px;
+}
+
+.edu-major{
+	color: #000 !important;
+	display: block;
+}
+
+.edu-name{
+	color: #8e8484 !important;
+	display: block;
+}
+
+.edu-th{
+	color: #dac513 !important;
+	display: block;
+	font-size: 9px;
+}
+.keahlian{
+	font-size: 18px;
+	color: #000 !important;
+	margin-bottom:15px;
+	display: block;
+}
+.creatif{
+	font-size: 14px;
+	color: #000 !important;
+	display: block;
+}
+.Design{
+	font-size: 14px;
+	color: #8e8484 !important;
+	display: block;
+}
+.tahun{
+	font-size: 10px;
+	color: #dac513  !important;
+	display: block;
+}
+.label-foter{
+	font-size: 12px;
+	color:#8e8484 !important;
+	margin-bottom:10px;
+	display: block;
+}
+
+
+.clear {clear: both;}
