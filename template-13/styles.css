@@ -1,0 +1,1183 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+
+ .content{
+ 	width: 595px;
+ 	height: 840px;
+	background: #12181e !important;
+ }
+
+ #Rectangle1 
+{ 
+	 left: 890px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 679px;
+	 height: 3693px;
+	 z-index:2;
+} 
+
+ #layer_3 
+{ 
+	 left: 943px; 
+	 top: 1634px; 
+	 position: absolute; 
+	 width: 574px;
+	 height: 8px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 943px; 
+	 top: 2690px; 
+	 position: absolute; 
+	 width: 574px;
+	 height: 8px;
+	 z-index:4;
+} 
+
+ #Doodles 
+{ 
+	 left: 16px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 1131px;
+	 height: 881px;
+	 z-index:5;
+} 
+
+ #Doodles_0 
+{ 
+	 left: 1404px; 
+	 top: 15px; 
+	 position: absolute; 
+	 width: 1048px;
+	 height: 898px;
+	 z-index:6;
+} 
+
+ #layer_32 
+{ 
+	 left: 102px; 
+	 top: 2779px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:32;
+} 
+
+ #Software 
+{ 
+	 left: 283px; 
+	 top: 2812px; 
+	 position: absolute; 
+	 width: 360px;
+	 height: 71px;
+	 z-index:33;
+} 
+
+
+
+
+
+
+
+
+ 
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 2460px;
+	 height: 3450px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Rectangle2 
+{ 
+	 left: -49px; 
+	 top: -13px; 
+	 position: absolute; 
+	 width: 2542px;
+	 height: 3512px;
+	 z-index:1;
+} 
+
+
+ #Polygon2copy8 
+{ 
+	 left: 458px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:7;
+} 
+
+ #Polygon2copy8_0 
+{ 
+	 left: 518px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:8;
+} 
+
+ #Polygon2copy8_1 
+{ 
+	 left: 578px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:9;
+} 
+
+ #Polygon2copy8_2 
+{ 
+	 left: 638px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:10;
+} 
+
+ #Polygon2copy8_3 
+{ 
+	 left: 698px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:11;
+} 
+
+ #Polygon2copy8_4 
+{ 
+	 left: 758px; 
+	 top: 3242px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:12;
+} 
+
+ #Polygon2copy7 
+{ 
+	 left: 458px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:13;
+} 
+
+ #Polygon2copy7_0 
+{ 
+	 left: 518px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:14;
+} 
+
+ #Polygon2copy7_1 
+{ 
+	 left: 578px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:15;
+} 
+
+ #Polygon2copy7_2 
+{ 
+	 left: 638px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:16;
+} 
+
+ #Polygon2copy7_3 
+{ 
+	 left: 698px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:17;
+} 
+
+ #Polygon2copy7_4 
+{ 
+	 left: 758px; 
+	 top: 3163px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:18;
+} 
+
+ #Polygon2copy6 
+{ 
+	 left: 458px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:19;
+} 
+
+ #Polygon2copy6_0 
+{ 
+	 left: 518px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:20;
+} 
+
+ #Polygon2copy6_1 
+{ 
+	 left: 578px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:21;
+} 
+
+ #Polygon2copy6_2 
+{ 
+	 left: 638px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:22;
+} 
+
+ #Polygon2copy6_3 
+{ 
+	 left: 698px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:23;
+} 
+
+ #Polygon2copy6_4 
+{ 
+	 left: 758px; 
+	 top: 3089px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:24;
+} 
+
+ #Polygon2 
+{ 
+	 left: 458px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:25;
+} 
+
+ #Polygon2copy 
+{ 
+	 left: 518px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:26;
+} 
+
+ #Polygon2copy2 
+{ 
+	 left: 578px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:27;
+} 
+
+ #Polygon2copy3 
+{ 
+	 left: 638px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:28;
+} 
+
+ #Polygon2copy4 
+{ 
+	 left: 698px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:29;
+} 
+
+ #Polygon2copy5 
+{ 
+	 left: 758px; 
+	 top: 3014px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:30;
+} 
+
+ #PhotoshopIllustrator 
+{ 
+	 left: 169px; 
+	 top: 3023px; 
+	 position: absolute; 
+	 width: 233px;
+	 height: 256px;
+	 z-index:31;
+} 
+
+ #layer_34 
+{ 
+	 left: 102px; 
+	 top: 2911px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:34;
+} 
+
+ #Polygon2copy12 
+{ 
+	 left: 1649px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:35;
+} 
+
+ #Polygon2copy12_0 
+{ 
+	 left: 1709px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:36;
+} 
+
+ #Polygon2copy12_1 
+{ 
+	 left: 1769px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:37;
+} 
+
+ #Polygon2copy12_2 
+{ 
+	 left: 1829px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:38;
+} 
+
+ #Polygon2copy12_3 
+{ 
+	 left: 1889px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:39;
+} 
+
+ #Polygon2copy12_4 
+{ 
+	 left: 1949px; 
+	 top: 3238px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:40;
+} 
+
+ #Polygon2copy11 
+{ 
+	 left: 1649px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:41;
+} 
+
+ #Polygon2copy11_0 
+{ 
+	 left: 1709px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:42;
+} 
+
+ #Polygon2copy11_1 
+{ 
+	 left: 1769px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:43;
+} 
+
+ #Polygon2copy11_2 
+{ 
+	 left: 1829px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:44;
+} 
+
+ #Polygon2copy11_3 
+{ 
+	 left: 1889px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:45;
+} 
+
+ #Polygon2copy11_4 
+{ 
+	 left: 1949px; 
+	 top: 3167px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:46;
+} 
+
+ #Polygon2copy10 
+{ 
+	 left: 1649px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:47;
+} 
+
+ #Polygon2copy10_0 
+{ 
+	 left: 1709px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:48;
+} 
+
+ #Polygon2copy10_1 
+{ 
+	 left: 1769px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:49;
+} 
+
+ #Polygon2copy10_2 
+{ 
+	 left: 1829px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:50;
+} 
+
+ #Polygon2copy10_3 
+{ 
+	 left: 1889px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:51;
+} 
+
+ #Polygon2copy10_4 
+{ 
+	 left: 1949px; 
+	 top: 3086px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:52;
+} 
+
+ #Polygon2copy9 
+{ 
+	 left: 1649px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:53;
+} 
+
+ #Polygon2copy9_0 
+{ 
+	 left: 1709px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:54;
+} 
+
+ #Polygon2copy9_1 
+{ 
+	 left: 1769px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:55;
+} 
+
+ #Polygon2copy9_2 
+{ 
+	 left: 1829px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:56;
+} 
+
+ #Polygon2copy9_3 
+{ 
+	 left: 1889px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:57;
+} 
+
+ #Polygon2copy9_4 
+{ 
+	 left: 1949px; 
+	 top: 3015px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 49px;
+	 z-index:58;
+} 
+
+ #CommunicationTeamWor 
+{ 
+	 left: 2070px; 
+	 top: 3024px; 
+	 position: absolute; 
+	 width: 271px;
+	 height: 256px;
+	 z-index:59;
+} 
+
+ #layer_60 
+{ 
+	 left: 1653px; 
+	 top: 2779px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:60;
+} 
+
+ #Skills 
+{ 
+	 left: 1908px; 
+	 top: 2809px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 71px;
+	 z-index:61;
+} 
+
+ #layer_62 
+{ 
+	 left: 1653px; 
+	 top: 2911px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:62;
+} 
+
+ #LoremIpsumissimplydu 
+{ 
+	 left: 1654px; 
+	 top: 2468px; 
+	 position: absolute; 
+	 width: 646px;
+	 height: 130px;
+	 z-index:63;
+} 
+
+ #CreativeDirector 
+{ 
+	 left: 1652px; 
+	 top: 2319px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:64;
+} 
+
+ #Sept2015Current 
+{ 
+	 left: 1651px; 
+	 top: 2388px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:65;
+} 
+
+ #CaliforniaDesignINC 
+{ 
+	 left: 1651px; 
+	 top: 2241px; 
+	 position: absolute; 
+	 width: 577px;
+	 height: 55px;
+	 z-index:66;
+} 
+
+ #LoremIpsumissimplydu_0 
+{ 
+	 left: 1653px; 
+	 top: 2007px; 
+	 position: absolute; 
+	 width: 646px;
+	 height: 130px;
+	 z-index:67;
+} 
+
+ #CreativeDirector_0 
+{ 
+	 left: 1651px; 
+	 top: 1858px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:68;
+} 
+
+ #Sept2015Current_0 
+{ 
+	 left: 1650px; 
+	 top: 1927px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:69;
+} 
+
+ #CaliforniaDesignINC_0 
+{ 
+	 left: 1650px; 
+	 top: 1780px; 
+	 position: absolute; 
+	 width: 577px;
+	 height: 55px;
+	 z-index:70;
+} 
+
+ #LoremIpsumissimplydu_1 
+{ 
+	 left: 1654px; 
+	 top: 1546px; 
+	 position: absolute; 
+	 width: 646px;
+	 height: 130px;
+	 z-index:71;
+} 
+
+ #CreativeDirector_1 
+{ 
+	 left: 1652px; 
+	 top: 1397px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:72;
+} 
+
+ #Sept2015Current_1 
+{ 
+	 left: 1651px; 
+	 top: 1466px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:73;
+} 
+
+ #CaliforniaDesignINC_1 
+{ 
+	 left: 1651px; 
+	 top: 1319px; 
+	 position: absolute; 
+	 width: 577px;
+	 height: 55px;
+	 z-index:74;
+} 
+
+ #layer_75 
+{ 
+	 left: 1682px; 
+	 top: 1087px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:75;
+} 
+
+ #Education 
+{ 
+	 left: 1843px; 
+	 top: 1123px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 71px;
+	 z-index:76;
+} 
+
+ #layer_77 
+{ 
+	 left: 1682px; 
+	 top: 1219px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:77;
+} 
+
+ #Websitewwwpsdfreebie 
+{ 
+	 left: 1044px; 
+	 top: 2492px; 
+	 position: absolute; 
+	 width: 372px;
+	 height: 102px;
+	 z-index:78;
+} 
+
+ #Emailhipsdfreebiesco 
+{ 
+	 left: 1058px; 
+	 top: 2299px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 105px;
+	 z-index:79;
+} 
+
+ #Phone012344560000 
+{ 
+	 left: 1096px; 
+	 top: 2108px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 103px;
+	 z-index:80;
+} 
+
+ #Address1234StreetRoa 
+{ 
+	 left: 991px; 
+	 top: 1886px; 
+	 position: absolute; 
+	 width: 481px;
+	 height: 163px;
+	 z-index:81;
+} 
+
+ #DOB01011982 
+{ 
+	 left: 1130px; 
+	 top: 1725px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 102px;
+	 z-index:82;
+} 
+
+ #LoremIpsumissimplydu_2 
+{ 
+	 left: 153px; 
+	 top: 2472px; 
+	 position: absolute; 
+	 width: 647px;
+	 height: 130px;
+	 z-index:83;
+} 
+
+ #CreativeDirector_2 
+{ 
+	 left: 429px; 
+	 top: 2323px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:84;
+} 
+
+ #Sept2015Current_2 
+{ 
+	 left: 431px; 
+	 top: 2392px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:85;
+} 
+
+ #CaliforniaDesignINC_2 
+{ 
+	 left: 225px; 
+	 top: 2245px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 55px;
+	 z-index:86;
+} 
+
+ #LoremIpsumissimplydu_3 
+{ 
+	 left: 153px; 
+	 top: 2011px; 
+	 position: absolute; 
+	 width: 647px;
+	 height: 130px;
+	 z-index:87;
+} 
+
+ #CreativeDirector_3 
+{ 
+	 left: 429px; 
+	 top: 1862px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:88;
+} 
+
+ #Sept2015Current_3 
+{ 
+	 left: 431px; 
+	 top: 1931px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:89;
+} 
+
+ #CaliforniaDesignINC_3 
+{ 
+	 left: 225px; 
+	 top: 1784px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 55px;
+	 z-index:90;
+} 
+
+ #LoremIpsumissimplydu_4 
+{ 
+	 left: 153px; 
+	 top: 1550px; 
+	 position: absolute; 
+	 width: 647px;
+	 height: 130px;
+	 z-index:91;
+} 
+
+ #CreativeDirector_4 
+{ 
+	 left: 429px; 
+	 top: 1401px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 39px;
+	 z-index:92;
+} 
+
+ #Sept2015Current_4 
+{ 
+	 left: 431px; 
+	 top: 1470px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 38px;
+	 z-index:93;
+} 
+
+ #CaliforniaDesignINC_4 
+{ 
+	 left: 225px; 
+	 top: 1323px; 
+	 position: absolute; 
+	 width: 576px;
+	 height: 55px;
+	 z-index:94;
+} 
+
+ #layer_95 
+{ 
+	 left: 102px; 
+	 top: 1091px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:95;
+} 
+
+ #Experiences 
+{ 
+	 left: 235px; 
+	 top: 1127px; 
+	 position: absolute; 
+	 width: 443px;
+	 height: 71px;
+	 z-index:96;
+} 
+
+ #layer_97 
+{ 
+	 left: 102px; 
+	 top: 1223px; 
+	 position: absolute; 
+	 width: 687px;
+	 height: 8px;
+	 z-index:97;
+} 
+
+ #psdfreebiescopy 
+{ 
+	 left: 1278px; 
+	 top: 3250px; 
+	 position: absolute; 
+	 width: 213px;
+	 height: 39px;
+	 z-index:98;
+} 
+
+ #Polygon2copy26 
+{ 
+	 left: 1328px; 
+	 top: 3109px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 132px;
+	 z-index:99;
+} 
+
+ #copy 
+{ 
+	 left: 1359px; 
+	 top: 3147px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 52px;
+	 z-index:100;
+} 
+
+ #psdfreebies 
+{ 
+	 left: 943px; 
+	 top: 3250px; 
+	 position: absolute; 
+	 width: 213px;
+	 height: 39px;
+	 z-index:101;
+} 
+
+ #Polygon2copy25 
+{ 
+	 left: 993px; 
+	 top: 3109px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 132px;
+	 z-index:102;
+} 
+
+ #layer_103 
+{ 
+	 left: 1024px; 
+	 top: 3147px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 52px;
+	 z-index:103;
+} 
+
+ #psdfreebies_0 
+{ 
+	 left: 1258px; 
+	 top: 2959px; 
+	 position: absolute; 
+	 width: 231px;
+	 height: 39px;
+	 z-index:104;
+} 
+
+ #Polygon2copy19 
+{ 
+	 left: 1317px; 
+	 top: 2808px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 132px;
+	 z-index:105;
+} 
+
+ #layer_106 
+{ 
+	 left: 1347px; 
+	 top: 2855px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 43px;
+	 z-index:106;
+} 
+
+ #psdfreebies_1 
+{ 
+	 left: 962px; 
+	 top: 2963px; 
+	 position: absolute; 
+	 width: 213px;
+	 height: 39px;
+	 z-index:107;
+} 
+
+ #Polygon2copy18 
+{ 
+	 left: 1012px; 
+	 top: 2809px; 
+	 position: absolute; 
+	 width: 115px;
+	 height: 132px;
+	 z-index:108;
+} 
+
+ #layer_109 
+{ 
+	 left: 1054px; 
+	 top: 2848px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 57px;
+	 z-index:109;
+} 
+
+ #LoremIpsumissimplydu_5 
+{ 
+	 left: 951px; 
+	 top: 1110px; 
+	 position: absolute; 
+	 width: 565px;
+	 height: 459px;
+	 z-index:110;
+} 
+
+ #CreativeDirector_5 
+{ 
+	 left: 1059px; 
+	 top: 984px; 
+	 position: absolute; 
+	 width: 354px;
+	 height: 39px;
+	 z-index:111;
+} 
+
+ #JohNDoe 
+{ 
+	 left: 950px; 
+	 top: 820px; 
+	 position: absolute; 
+	 width: 538px;
+	 height: 143px;
+	 z-index:112;
+} 
+
+ #Polygon1 
+{ 
+	 left: 940px; 
+	 top: 62px; 
+	 position: absolute; 
+	 width: 581px;
+	 height: 670px;
+	 z-index:113;
+} 
+
+ #PasteyourProfilePic 
+{ 
+	 left: 858px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 743px;
+	 height: 676px;
+	 z-index:114;
+} 
+
+ #PSDFreebiescom 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 2460px;
+	 height: 3450px;
+	 z-index:115;
+} 

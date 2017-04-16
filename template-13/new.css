@@ -1,0 +1,293 @@
+ body {
+	margin: 0;
+	padding: 0;
+	/*background: #12181e;*/
+ }
+
+ .content{
+ 	width: 595px;
+ 	height: 840px;
+	background: #12181e !important;
+ }
+
+ #person_photo
+{ 
+	 left: 237px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 110px;
+	 height: 100px;
+	 overflow: hidden;
+	 /*border:1px solid #fff;*/
+	 border-radius: 60px;
+	 z-index:13;
+}
+
+ #person_name
+{ 
+	 left: 237px; 
+	 top: 217px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+}
+
+ #person_desc
+{ 
+	 left: 220px; 
+	 top: 257px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+}
+
+ #Rectangle1 
+{ 
+	 left: 217px; 
+	 top: 48px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 200px;
+	 z-index:2;
+} 
+
+ #Doodles 
+{ 
+	 left: 16px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 100px;
+	 z-index:5;
+} 
+
+ #Doodles_0 
+{ 
+	 left: 340px; 
+	 top: 15px; 
+	 position: absolute; 
+	 /*width: 1048px;
+	 height: 898px;*/
+	 z-index:6;
+} 
+
+ #Polygon1 
+{ 
+	left: 217px; 
+	top: 30px; 
+	position: absolute; 
+	/*width: 581px;
+	height: 670px;*/
+	z-index:10;
+}  
+
+ #layer_exp_top
+{ 
+	 left: 20px; 
+	 top: 254px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+} 
+
+ #layer_exp_bottom
+{ 
+	 left: 20px; 
+	 top: 294px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:4;
+} 
+
+ #Experiences 
+{ 
+	left:41px; 
+	top: 265px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+} 
+
+ #layer_edu_top
+{ 
+	 left: 420px; 
+	 top: 254px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+} 
+
+ #layer_edu_bottom
+{ 
+	 left: 420px; 
+	 top: 294px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:4;
+} 
+
+ #Education 
+{ 
+	left:450px; 
+	top: 265px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+} 
+
+ #layer_skill_top
+{ 
+	 left: 420px; 
+	 top: 554px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+} 
+
+ #layer_skill_bottom
+{ 
+	 left: 420px; 
+	 top: 594px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:4;
+} 
+
+ #Skills
+{ 
+	left:465px; 
+	top: 565px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+} 
+
+ #layer_software_top
+{ 
+	 left: 20px; 
+	 top: 554px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:3;
+} 
+
+ #layer_software_bottom
+{ 
+	 left: 20px; 
+	 top: 594px; 
+	 position: absolute; 
+	 /*width: 574px;
+	 height: 8px;*/
+	 z-index:4;
+} 
+
+ #Software
+{ 
+	left:50px; 
+	top: 565px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+} 
+
+#polygon_fb
+{
+	left:240px; 
+	top: 680px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#facebook_logo
+{
+	left:250px; 
+	top: 687px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#polygon_twt
+{
+	left:320px; 
+	top: 680px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#twitter_logo
+{
+	left:326px; 
+	top: 689px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#polygon_google
+{
+	left:320px; 
+	top: 750px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#google_logo
+{
+	left:325px; 
+	top: 757px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#polygon_lnk
+{
+	left:240px; 
+	top: 750px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+#linkin_logo
+{
+	left:245px; 
+	top: 757px; 
+	position: absolute; 
+	/*width: 443px;
+	height: 71px;*/
+	z-index:96;
+}
+
+
+
+
+
+
+/*---------------------*/
+ 
+ 
